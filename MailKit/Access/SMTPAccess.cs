@@ -8,7 +8,7 @@ using MimeKit;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Primitives;
 
-namespace Titan.MailKit.DataAccess
+namespace MailKitLib.Access
 {
     public class SMTPAccess : ISMTPAccess
     {

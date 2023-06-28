@@ -1,10 +1,8 @@
 ﻿using MailKitDemo.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using MailKit.Net.Smtp;
-using MimeKit;
-using Titan.MailKit;
-using Titan.MailKit.DataAccess;
+using MailKitLib;
+using MailKitLib.Access;
 
 namespace MailKitDemo.Controllers
 {

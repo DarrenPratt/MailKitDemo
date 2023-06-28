@@ -1,4 +1,4 @@
-﻿namespace Titan.MailKit.DataAccess
+﻿namespace MailKitLib.Access
 {
     public interface ISMTPAccess
     {

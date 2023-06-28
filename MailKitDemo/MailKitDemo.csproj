@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Titan.MailKit\Titan.MailKit.csproj" />
+    <ProjectReference Include="..\MailKit\MailKitLib.csproj" />
   </ItemGroup>
 
 </Project>

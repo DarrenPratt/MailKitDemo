@@ -1,4 +1,4 @@
-using Titan.MailKit.DataAccess;
+using MailKitLib.Access;
 
 var builder = WebApplication.CreateBuilder(args);
 
