@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailKitDemo", "MailKitDemo\MailKitDemo.csproj", "{D647A9BF-306D-4114-9114-6AD8E4923973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Titan.MailKit", "Titan.MailKit\Titan.MailKit.csproj", "{484B6286-A3BF-486A-8E71-E4C5B8511004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D647A9BF-306D-4114-9114-6AD8E4923973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D647A9BF-306D-4114-9114-6AD8E4923973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D647A9BF-306D-4114-9114-6AD8E4923973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D647A9BF-306D-4114-9114-6AD8E4923973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484B6286-A3BF-486A-8E71-E4C5B8511004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484B6286-A3BF-486A-8E71-E4C5B8511004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484B6286-A3BF-486A-8E71-E4C5B8511004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484B6286-A3BF-486A-8E71-E4C5B8511004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941E818B-221A-4363-8AB1-32D0E6BA3662}
+	EndGlobalSection
+EndGlobal
